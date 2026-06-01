@@ -1,0 +1,6 @@
+TCE-PR|Tribunal de Contas do Estado do Paraná|https://www.tce.pr.gov.br/
+TJPR|Tribunal de Justiça do Estado do Paraná|https://www.tjpr.jus.br/
+TRT9|Tribunal Regional do Trabalho da 9ª Região|https://www.trt9.jus.br/portal/
+TRE-PR|Tribunal Regional Eleitoral do Paraná|https://www.tre-pr.jus.br/
+DPE-PR|Defensoria Pública do Estado do Paraná|https://www.defensoriapublica.pr.def.br/Transparencia
+MPPR|Ministério Público do Estado do Paraná|https://mppr.mp.br/
