@@ -278,33 +278,6 @@ rm -rf ~/.wdm
 - Verifique mudanças nos sites (estrutura HTML)
 - Mantenha dependências atualizadas: `pip install --upgrade -r requirements.txt`
 
-## 📈 Roadmap
-
-- [ ] Suporte a mais estados (PR, RS, etc.)
-- [ ] Exportação em CSV/JSON
-- [ ] Interface web (Flask/Django)
-- [ ] Detecção automática de mudanças nos sites
-- [ ] Integração com APIs governamentais
-- [ ] Sistema de notificações (email/Slack)
-- [ ] Dashboard de visualização de dados
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Por favor:
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-### Diretrizes
-
-- Mantenha o código limpo e documentado
-- Adicione testes quando possível
-- Atualize o README se necessário
-- Siga PEP 8 (style guide Python)
-
 ## 📝 Changelog
 
 ### v3.0.0 (2026-05-19)
@@ -329,17 +302,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Desenvolvido com ❤️ por Bob**
+**Desenvolvido com IBM Bob
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seu-email@example.com
-
-## 🙏 Agradecimentos
-
-- [Selenium](https://www.selenium.dev/) - Automação de navegador
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - Parsing HTML
-- [Pandas](https://pandas.pydata.org/) - Manipulação de dados
-- Comunidade Python Brasil 🇧🇷
+- GitHub: (https://github.com/GuiFS3)
 
 ---
 
