@@ -1,0 +1,27 @@
+# Scraper V5 - AI-Powered Requirements
+# REQUER: Python 3.10 ou superior
+
+# Web Scraping
+selenium>=4.15.0
+beautifulsoup4>=4.12.0
+webdriver-manager>=4.0.0
+
+# Data Processing
+pandas>=2.1.0
+openpyxl>=3.1.0
+
+# IBM watsonx.ai (REQUER Python 3.10+)
+# Se você tem Python 3.9, use: ibm-watson-machine-learning==1.0.335
+ibm-watsonx-ai>=0.2.0
+
+# Web Interface
+flask>=3.0.0
+flask-socketio>=5.3.0
+python-socketio>=5.10.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Optional: For better performance
+lxml>=4.9.0
